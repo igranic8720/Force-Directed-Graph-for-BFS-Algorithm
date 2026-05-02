@@ -81,7 +81,7 @@ Conestoga College Student(s)
 
 [Ian](https://github.com/IanBlackmore)
 
-[Ryan]{https://github.com/Yunehr)
+[Ryan](https://github.com/Yunehr)
 
 Wilfred Laurier Student(s)
 
