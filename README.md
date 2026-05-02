@@ -1,6 +1,6 @@
 # Klotski BFS State Space Visualizer (Force Directed Graph)
 
-> 🏆 **Winner of best technical complexity @ ConHacks 2026**
+🏆 **Winner of best technical complexity @ ConHacks 2026**
 
 An interactive 3D visualization of the complete state space of the [Klotski sliding block puzzle](https://en.wikipedia.org/wiki/Klotski), built in **Godot 4**. Every reachable board arrangement is a node in a live force-directed graph lattice — and the shortest solution path is highlighted from the starting position. As you play, a blue highlight will be visible on the node / state you are currently in on the force directed graph.
 
