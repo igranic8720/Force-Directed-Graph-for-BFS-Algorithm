@@ -75,7 +75,13 @@ The layout uses a standard force-directed approach:
 Built at ConHacks 2026 in 36 hours.
 
 Team consisted of: 
+Conestoga College Student(s)
+https://github.com/IanBlackmore
+https://github.com/Yunehr
+https://github.com/igranic8720
 
+Wilfred Laurier Student(s)
+https://github.com/Navidmznn
 
 ## Inspiration:
 
