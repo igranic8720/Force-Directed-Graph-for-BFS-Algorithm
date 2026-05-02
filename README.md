@@ -76,12 +76,16 @@ Built at ConHacks 2026 in 36 hours.
 
 Team consisted of: 
 Conestoga College Student(s)
-https://github.com/IanBlackmore
-https://github.com/Yunehr
-https://github.com/igranic8720
+
+[Ivan](https://github.com/igranic8720)
+
+[Ian](https://github.com/IanBlackmore)
+
+[Ryan]{https://github.com/Yunehr)
 
 Wilfred Laurier Student(s)
-https://github.com/Navidmznn
+
+[Navid](https://github.com/Navidmznn)
 
 ## Inspiration:
 
